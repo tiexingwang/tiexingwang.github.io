@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. R&D Shearwater. United Kingdom.
 
 profile:
   align: right
-  image: office_pic_small.jpg
+  image: office_pic_small.png
   image_circular: false # crops the image to make it circular
   more_info: > 
     <p>Gatwick, United Kingdom</p>
