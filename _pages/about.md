@@ -15,4 +15,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a research geophysicist at the R&D department at Shearwater Geoservices. My research interest focuses on improving the geophysical imaging accuracy via signal processing and machine learning.
+I am a research geophysicist at the R&D department at Shearwater Geoservices. 
+
+My research interest focuses on deep learning, geophysics signal processing and imaging. 
