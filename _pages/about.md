@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a research geophysicist at the R&D department at Shearwater Geoservices. My research interest focuses on improving the geophysical imaging accuracy via signal processing and machine learning. 
+I am a research geophysicist at the R&D department at Shearwater Geoservices. My research interest focuses on improving the geophysical imaging accuracy via signal processing and machine learning.
 
 Write your biography here and there and my name is TWang. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
