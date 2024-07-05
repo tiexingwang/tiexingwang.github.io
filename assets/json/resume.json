@@ -187,6 +187,7 @@
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
+  "projects_comment": "Projects related to quantum computing and its applications.",
   "projects": [
     {
       "name": "Quantum Computing",
