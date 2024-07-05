@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. R&D Shearwater. United Kingdom.
+subtitle: <a href='#'>Affiliations</a>. R&D Shearwater Geoservices. United Kingdom.
 
 profile:
   align: right
