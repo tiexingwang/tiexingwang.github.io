@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.tiexingwang.com/sitemap.xml
+Sitemap: https://tiexingwang.com/sitemap.xml
