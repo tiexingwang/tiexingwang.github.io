@@ -107,19 +107,14 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Ultra-high resolution windfarm",
-        "Marine vibroseis",
-        "Signature estimation",
-        "Harmonic imaging",
-        "Demultiple/Deblending"
+        "Marine vibroseis"
       ]
     },
     {
       "name": "Artificial Intelligence",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Deep learning", 
-        "Neural networks",
-        "Computer vision"
+        "Deep learning"
       ]
     }
   ]
