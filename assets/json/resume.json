@@ -56,26 +56,6 @@
       "endDate": "2020-07-01"
     }
   ],
-  "publications": [
-    {
-      "name": "What Can Generative Modelling Do for Interpolation of Extremely Sparse Wind Farm Seismic Data?",
-      "publisher": "2024 Global Energy Transition Conference & Exhibition proceeding",
-      "releaseDate": "Submitted",
-      "summary": ""
-    }, 
-    {
-      "name": "Extending seismic bandwidth using the harmonic energy of a marine vibrator source",
-      "publisher": "2023 SEG International Exposition and Annual Meeting",
-      "releaseDate": "2023",
-      "summary": ""
-    }, 
-    {
-      "name": "Closed-loop SRME based on 3D L1-norm sparse inversion",
-      "publisher": "Acta Geophysica",
-      "releaseDate": "2017",
-      "summary": ""
-    }  
-  ],
   "skills": [
     {
       "name": "Programming",
