@@ -17,4 +17,4 @@ social: true # includes social icons at the bottom of the page
 
 I am a research geophysicist at the R&D department at Shearwater Geoservices. 
 
-My research interest focuses on deep learning, geophysics signal processing and imaging. 
+My research interest focuses on geophysics - signal processing and imaging deep and learning.  
