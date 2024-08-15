@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GET2024 abstract submitted
+title: GET2024 abstract accepted
 date: 2024-06-29 16:11:00-0400
 inline: false
 related_posts: false
