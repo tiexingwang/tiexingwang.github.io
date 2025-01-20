@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EAGE2024 abstract titled "Physics-Driven Self-Supervised Deep Learning for Free-Surface Multiple Elimination" submitted
+title: Abstract Submitted to EAGE2025 Physics-Driven Self-Supervised Deep Learning for Free-Surface Multiple Elimination
 date: 2025-01-15 16:11:00-0400
 inline: false
 related_posts: false
