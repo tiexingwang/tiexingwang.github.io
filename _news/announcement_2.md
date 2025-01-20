@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Petex2024 abstract accepted
-date: 2024-06-14 10:11:00-0400
+title: Review for the 2024 activities
+date: 2024-12-31 10:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Petex2024 abstract accepted
+2024 summary
 
 ---
 
