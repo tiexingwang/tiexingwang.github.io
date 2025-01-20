@@ -1,19 +1,16 @@
 ---
 layout: post
-title: Review for the 2024 activities
-date: 2024-12-31 10:11:00-0400
+title: EAGE2024 abstract titled "Interpolating Sparse Seismic Data via Horizon-Guided Inverse Distance Weighting" submitted
+date: 2025-01-15 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-2024 summary
+EAGE2025 abstract titled "Interpolating Sparse Seismic Data via Horizon-Guided Inverse Distance Weighting" submitted
 
 ---
 
-I am pleased to announce that my Petex 2024 abstract has been accepted. The paper, titled Advancements in Seismic Data Acquisition and Processing: The First Broadband 3D Marine Vibrator Survey in the North Sea". 
+I am pleased to announce that the paper, titled *"Interpolating Sparse Seismic Data via Horizon-Guided Inverse Distance Weighting,"* has been submitted for the upcoming [EAGE2025](https://eageannual.org/). 
+This study presents a method that combines inverse distance weighting (IDW) with pre-defined horizons to guide the interpolation process and ensure geological consistency. By leveraging horizon information, the proposed method effectively fills large gaps in 2D seismic data and generates a 3D seismic data volume, preserving structural continuity across the seismic volume.
 
-We present the results of the processing and imaging of marine vibrator (MV) alpha test data recently acquired at the Johan Sverdrup field in the North Sea. The alpha test includes a 3D survey using a single MV across a frequency spectrum of 3-150Hz and additional testing of several 2D source-lines using two MVs. Moreover, two ultra-low frequency (ULF) test lines were conducted over a 1-8Hz frequency range. The preliminary processing results of the 3D survey are on par with those derived from the legacy airgun array acquisition, thereby affirming the viability of employing MV technology on a large scale.
-
-The abstract has been prepared with contributions from my esteemed colleagues Arash Jafargandomi, Kara Howard, Sergio Grion and Alysa Evensen at Shearwater Geoservices. We are looking forward to sharing our findings with the global community and engaging in fruitful discussions at the conference.
-
-Thank you to everyone who supported this research. More details will follow upon acceptance of our work.
+This is a joint work with my colleagues Dr. Robert Telling, Dr. Sebastian Holland, Dr. Javier Martin, Dr. Arash Jafargandomi. We are looking forward to sharing our findings with the global community and engaging in fruitful discussions at the conference. Thank you to everyone who supported this research. More details will follow upon acceptance of our work.
