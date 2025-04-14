@@ -80,6 +80,14 @@
       "studyType": "Visting PhD Researcher",
       "startDate": "2019-01-01",
       "endDate": "2020-01-01"
+    }, 
+    {
+      "institution": "Jilin University",
+      "location": "Changchun, China",
+      "area": "Geophysics",
+      "studyType": "BSc",
+      "startDate": "2011-09-01",
+      "endDate": "2015-07-01"
     }
   ],
   "skills": [
