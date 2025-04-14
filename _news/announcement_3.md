@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chari session about the EAGE Young professional
+title: Chairing a Session on EAGE Young Professionals
 date: 2024-12-31 10:11:00-0400
 inline: false
 related_posts: false
