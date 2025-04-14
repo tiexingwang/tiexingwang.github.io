@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Tiexing Wang",
-    "label": "Research Geophysicist/Deep Learning researcher",
+    "label": "Scientific Machine Learning/Geophysics/Generative AI/Signal Processing",
     "image": "",
     "email": "tiexingwang1992@gmail.com",
     "phone": "",
@@ -31,19 +31,37 @@
       "startDate": "2020-09-01",
       "endDate": "Present",
       "summary": "Researches and develops new geophysics and machine learning technologies.",
-      "highlights": ["Ultra high-resolution windfarm data via diffusion model",
-                     "Extremly sparse data interpolation",
-                     "Marine vibroseis"]
+      "highlights": ["Self-supervised, physics-driven deep learning framework",
+                    "Marine vibroseis",
+                    "Generative AI on seismic data interpolation"]
+    }, 
+    {
+      "name": "Delft University of Technology",
+      "location": "Delft, Netherlands",
+      "position": "Voluntary Bachelor Thesis supervisor",
+      "url": "https://www.tudelft.nl/",
+      "startDate": "2024-08-01",
+      "endDate": "Present",
+      "summary": "Supervising the bachelor thesis of a student in the field of physics-informed machine learning.",
+      "highlights": ["Have been co-supervising the bachelor thesis of 4 students"]
     }
   ],
   "volunteer": [
     {
       "organization": "EAGE London local chapter",
       "location": "London, United Kingdom",
-      "position": "Board member",
+      "position": "Vice President",
       "startDate": "2024-04-01",
       "endDate": "Present",
       "summary": "Organizer for the research activity by EAGE."
+    }, 
+    {
+      "organization": "EAGE Young Professionals",
+      "location": "London, United Kingdom",
+      "position": "Committee Member",
+      "startDate": "2024-11-01",
+      "endDate": "Present",
+      "summary": "Promoting the development of young professionals in the geoscience community."
     }
   ],
   "education": [
@@ -54,6 +72,14 @@
       "studyType": "PhD",
       "startDate": "2015-09-01",
       "endDate": "2020-07-01"
+    },
+    {
+      "institution": "Delft University of Technology",
+      "location": "Delft, Netherlands",
+      "area": "Geophysics",
+      "studyType": "Visting PhD Researcher",
+      "startDate": "2019-01-01",
+      "endDate": "2020-01-01"
     }
   ],
   "skills": [
@@ -87,14 +113,17 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Ultra-high resolution windfarm",
-        "Marine vibroseis"
+        "Marine vibroseis",
+        "Seismic data interpolation"
       ]
     },
     {
       "name": "Artificial Intelligence",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Deep learning"
+        "Deep learning",
+        "Generative AI",
+        "Scientific Machine Learning"
       ]
     }
   ]
