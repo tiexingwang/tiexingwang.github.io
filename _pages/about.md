@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <p>
-  I'm a <strong style="font-weight:700; font-size: 1.05em;">Project Research Geophysicist</strong> on the R&D team at 
+  I'm a <strong style="font-weight:700; font-size: 1.05em;">Project Research Geophysicist</strong> in the R&D team at 
   <a href="https://www.shearwatergeo.com/" style="text-decoration: underline; text-decoration-style: dotted; text-decoration-color: rgba(0,0,0,0.3); font-weight: 600;">Shearwater GeoServices</a> in the United Kingdom. 
   I hold a Ph.D. in applied physics and have almost six years of experience applying 
   <span style="color:#0055aa; font-weight:500;">scientific machine learning</span>, 
