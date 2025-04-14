@@ -15,13 +15,49 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a project research geophysicist on the R&D team at <a href="https://www.shearwatergeo.com/" style="text-decoration: underline; text-decoration-style: dotted; text-decoration-color: rgba(0,0,0,0.3);">Shearwater GeoServices</a> in the United Kingdom. I hold a Ph.D. in applied physics and have almost years of industry experience applying scientific machine learning, generative AI, and signal processing to real-world challenges in subsurface imaging.
+<p>
+  <strong style="font-weight:700; font-size: 1.05em;">Project Research Geophysicist</strong> on the R&D team at 
+  <a href="https://www.shearwatergeo.com/" style="color:#0055aa; font-weight: 600;">Shearwater GeoServices</a>, United Kingdom. 
+  I hold a Ph.D. in applied physics and have nearly six years of experience applying 
+  <span style="font-style: italic;">scientific machine learning</span>, 
+  <span style="font-style: italic;">generative AI</span>, and 
+  <span style="font-style: italic;">signal processing</span> to real-world challenges in subsurface imaging.
+</p>
 
-My research focuses on bridging physics-based modeling with machine learning, particularly in developing self-supervised, physics-informed frameworks that eliminate the need for labeled training data. These frameworks aim to serve as robust solvers for inverse problems in seismic processing and inversion. My work supports applications such as traditions marine seismic acquisition, offshore windfarm site assessments. 
+<p>
+  My research focuses on integrating <span style="font-style: italic;">physics-based modeling</span> with 
+  <span style="font-style: italic;">data-driven methods</span>, particularly in building 
+  <strong>self-supervised, physics-informed learning frameworks</strong> that eliminate the need for labeled training data. 
+  These frameworks aim to act as robust solvers for inverse problems in seismic processing and inversion, with real-world applications in 
+  <span style="font-style: italic;">traditional marine seismic acquisition</span>, 
+  <span style="font-style: italic;">offshore windfarm assessments</span>, and 
+  <span style="font-style: italic;">carbon storage monitoring</span>.
+</p>
 
-At Shearwater, I contribute to R&D initiatives involving marine vibroseis technologies, Generative AI for seismic data reconstructnion, and advanced seismic acquisition strategies. My long-term goal is to build a physics-aware deep learning framework that's scientifically rigorous and accelerates innovation across the energy sector.
+<p>
+  At <a href="https://www.shearwatergeo.com/" style="color:#0055aa; font-weight: 600;">Shearwater</a>, 
+  I contribute to R&D initiatives involving 
+  <span style="font-style: italic;">marine vibroseis technologies</span>, 
+  <span style="font-style: italic;">generative seismic reconstruction</span>, and 
+  <span style="font-style: italic;">acquisition optimization strategies</span>. 
+  My long-term goal is to develop a 
+  <strong>physics-aware deep learning framework</strong> that’s both scientifically rigorous and practically impactful in transforming the energy sector.
+</p>
 
-Beyond technical research, I'm actively involved in the geoscience community. I currently serve as Vice President of the <a href="https://www.linkedin.com/in/eage-local-chapter-london-450713139/" style="text-decoration: underline; text-decoration-style: dotted; text-decoration-color: rgba(0,0,0,0.3);">EAGE Local Chapter London</a> and as a committee member of the <a href="https://eage.org/communities/young-professionals/" style="text-decoration: underline; text-decoration-style: dotted; text-decoration-color: rgba(0,0,0,0.3);">EAGE Young Professionals</a>. Through these roles, I help promote energy innovation, tackle scientific challenges during the energy transition, and support the next generation of geoscientists.
+<p>
+  I also serve as <strong>Vice President</strong> of the 
+  <a href="https://www.linkedin.com/in/eage-local-chapter-london-450713139/" style="text-decoration: underline dotted; color:#333;">EAGE Local Chapter London</a> 
+  and as a committee member of the 
+  <a href="https://eage.org/communities/young-professionals/" style="text-decoration: underline dotted; color:#333;">EAGE Young Professionals</a>. 
+  In these roles, I help promote energy innovation, address scientific challenges in the energy transition, and engage with the next generation of geoscientists.
+</p>
 
-I'm always open to new ideas, interdisciplinary collaboration, and partnerships at the intersection of geophysics, AI, and sustainability. If you'd like to connect, chat over coffee, or discuss potential collaborations, feel free to reach out through the email and LinkedIn buttons below.
+<p>
+  I'm always open to interdisciplinary collaboration and new ideas at the intersection of 
+  <span style="font-style: italic;">geophysics</span>, 
+  <span style="font-style: italic;">AI</span>, and 
+  <span style="font-style: italic;">sustainability</span>. 
+  Feel free to reach out via email or LinkedIn if you'd like to connect, collaborate, or just chat over coffee.
+</p>
+
 
