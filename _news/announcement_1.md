@@ -1,18 +1,28 @@
 ---
 layout: post
-title: Abstract Accepted to EAGE2025 Physics-Driven Self-Supervised Deep Learning for Free-Surface Multiple Elimination
+title: Upcoming oline webinar about uncertainty quantification using deep learning
 date: 2025-03-15 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Abstract Accepted to EAGE2025 Physics-Driven Self-Supervised Deep Learning for Free-Surface Multiple Elimination
-
+Upcoming oline webinar about uncertainty quantification using deep learning
 ---
 
-I am pleased to announce that our paper, titled "Physics-Driven Self-Supervised Deep Learning for Free-Surface Multiple Elimination," has been accepted for the upcoming <a href="https://eageannual.org/">EAGE2025</a>. This research presents an approach that differs from traditional supervised learning methods - the DL model learns to effectively parameterize the free-surface multiple-free wavefield from the full wavefield by incorporating the underlying physics (the SRME equation) in the loss function. This, in turn, yields high-quality estimates without ever being shown any ‘ground truth’ data
+🎙 Excited to share that we’re hosting an upcoming webinar as part of the EAGE Young Professionals Community, which I’m proud to help organize.
 
-This is a collaborative work with <a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/pattern-recognition-bioinformatics/people/jing-sun">Dr. Jing Sun</a> and <a href="https://www.tudelft.nl/staff/d.j.verschuur/">Dr. Eric Verschuur</a> from Delft University of Technology, and my colleague <a href="https://nl.linkedin.com/in/ivan-vasconcelos-9166085">Dr. Ivan Vasconcelos</a>. We look forward to presenting our findings to the global community and engaging in meaningful discussions at the conference.
+🗓 19 August | 17:00 CEST
+Join us for a talk by my colleague Gabrio Rizzuti, who will be presenting on:
+
+🔍 Scalable Uncertainty Quantification in Seismic Inversion using Deep Learning
+
+In this session, we’ll explore how invertible neural networks can unlock new possibilities for uncertainty estimation in seismic imaging—bridging physics and AI at industrial scale.
+
+Whether you're working in geophysics, machine learning, or just curious about the future of seismic inverse problems, this one’s for you!
+
+🧠 Register here: https://lnkd.in/eMB65Pnz
+Looking forward to seeing many of you there!
+
 
 
 

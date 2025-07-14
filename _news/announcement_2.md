@@ -1,15 +1,35 @@
 ---
 layout: post
-title: Abstract accepted to EAGE2025 Interpolating Sparse Seismic Data via Horizon-Guided Inverse Distance Weighting
+title: Highlights from EAGE 2025
 date: 2025-03-15 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Abstract Accepted to EAGE2025 Interpolating Sparse Seismic Data via Horizon-Guided Inverse Distance Weighting
+## Highlights from EAGE 2025
 
----
+EAGE 2025 has been a busy and fulfilling week! I had the opportunity to contribute across technical, community, and leadership tracks—grateful to be part of such a dynamic geoscience community.
 
-I am pleased to announce that our paper, titled "Interpolating Sparse Seismic Data via Horizon-Guided Inverse Distance Weighting," has been accepted for the upcoming <a href="https://eageannual.org/">EAGE2025</a>. This study presents a method that combines inverse distance weighting (IDW) with pre-defined horizons to guide the interpolation process and ensure geological consistency. By leveraging horizon information, our proposed method effectively fills large gaps in 2D seismic data and generates a 3D seismic data volume while preserving structural continuity across the seismic volume.
+### 🎤 Technical Presentations
 
-This is a joint work with my colleagues Dr. Robert Telling, Dr. Sebastian Holland, Dr. Javier Martin, and Dr. Arash Jafargandomi. We look forward to sharing our findings with the global community and engaging in fruitful discussions at the conference.
+Two technical talks: 
+
+1. **Physics-Driven Self-Supervised Deep Learning for Free-Surface Multiple Elimination**
+2. **Interpolating Sparse Seismic Data via Horizon-Guided Inverse Distance Weighting**
+
+### 💬 Panel Discussions
+
+I took part in two thought-provoking panel sessions:
+
+* **Moderator:** *Geoscience Skills Shortage – A Threat for the Energy Transition?*
+* **Panelist:** *Earth Science at a Crossroads: Insights from EAGE’s Local Chapters*
+
+### 🪑 Session Chair Roles
+
+I also had the chance to co-chair two technical sessions:
+
+* **Machine Learning for Data Processing – 3**
+* **Seismic Noise Attenuation**
+
+Big thanks to all the collaborators, fellow speakers, and participants who made this year’s EAGE a memorable one. Looking forward to continued conversations and new ideas sparked during the week!
+
