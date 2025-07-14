@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Upcoming oline webinar about uncertainty quantification using deep learning
-date: 2025-03-15 16:11:00-0400
+title: Upcoming online webinar about uncertainty quantification using deep learning
+date: 2025-08-19 16:11:00-0400
 inline: false
 related_posts: false
 ---
