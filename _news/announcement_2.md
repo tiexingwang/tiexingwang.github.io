@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Highlights from EAGE 2025
-date: 2025-03-15 16:11:00-0400
+date: 2025-06-04 16:11:00-0400
 inline: false
 related_posts: false
 ---
