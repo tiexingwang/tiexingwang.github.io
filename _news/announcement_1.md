@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Highlights from EAGE 2025
-date: 2025-06-02 16:11:00-0400
+title: Upcoming online webinar about uncertainty quantification using deep learning
+date: 2025-08-19 16:11:00-0400
 inline: false
 related_posts: false
 ---
