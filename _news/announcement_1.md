@@ -1,27 +1,37 @@
 ---
 layout: post
-title: Upcoming online webinar about uncertainty quantification using deep learning
-date: 2025-08-19 16:11:00-0400
+title: Highlights from EAGE 2025
+date: 2025-06-02 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-## Upcoming oline webinar about uncertainty quantification using deep learning
+## Highlights from EAGE 2025
 
-Excited to share that we’re hosting an upcoming webinar as part of the EAGE Young Professionals Community, which I’m proud to help organize.
+EAGE 2025 has been a busy and fulfilling week! I had the opportunity to contribute across technical, community, and leadership tracks—grateful to be part of such a dynamic geoscience community.
 
-19 August | 17:00 CEST
-Join us for a talk by my colleague Gabrio Rizzuti, who will be presenting on:
+### 🎤 Technical Presentations
 
-Scalable Uncertainty Quantification in Seismic Inversion using Deep Learning
+Two technical talks: 
 
-In this session, we’ll explore how invertible neural networks can unlock new possibilities for uncertainty estimation in seismic imaging—bridging physics and AI at industrial scale.
+1. **Physics-Driven Self-Supervised Deep Learning for Free-Surface Multiple Elimination**
+2. **Interpolating Sparse Seismic Data via Horizon-Guided Inverse Distance Weighting**
 
-Whether you're working in geophysics, machine learning, or just curious about the future of seismic inverse problems, this one’s for you!
+### 💬 Panel Discussions
 
-Register here: https://lnkd.in/eMB65Pnz
-Looking forward to seeing many of you there!
+I took part in two thought-provoking panel sessions:
 
+* **Moderator:** *Geoscience Skills Shortage – A Threat for the Energy Transition?*
+* **Panelist:** *Earth Science at a Crossroads: Insights from EAGE’s Local Chapters*
+
+### 🪑 Session Chair Roles
+
+I also had the chance to co-chair two technical sessions:
+
+* **Machine Learning for Data Processing – 3**
+* **Seismic Noise Attenuation**
+
+Big thanks to all the collaborators, fellow speakers, and participants who made this year’s EAGE a memorable one. Looking forward to continued conversations and new ideas sparked during the week!
 
 
 
