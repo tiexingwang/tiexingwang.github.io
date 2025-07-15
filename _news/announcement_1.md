@@ -6,8 +6,8 @@ inline: false
 related_posts: false
 ---
 
-Upcoming oline webinar about uncertainty quantification using deep learning
----
+## Upcoming oline webinar about uncertainty quantification using deep learning
+
 
 🎙 Excited to share that we’re hosting an upcoming webinar as part of the EAGE Young Professionals Community, which I’m proud to help organize.
 
