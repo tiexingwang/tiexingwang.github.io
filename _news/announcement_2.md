@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-## Highlights from EAGE 2025
+## Highlights from EAGE 2025.
 
 EAGE 2025 has been a busy and fulfilling week! I had the opportunity to contribute across technical, community, and leadership tracks—grateful to be part of such a dynamic geoscience community.
 
